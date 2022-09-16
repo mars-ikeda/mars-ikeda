@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mars-ikeda
-- 👀 I’m interested in Civic Tech, Book Publishing, Abolition, and Art.
+- 👀 I’m interested in Civic Tech, Book & Newspaper Publishing, Abolition, and Art.
 - 🌱 I’m currently studying Statistical & Data Sciences at Smith College.
 
 <!---
